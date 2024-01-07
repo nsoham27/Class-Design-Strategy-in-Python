@@ -5,6 +5,7 @@
 ### It demonstrates good coding practices with proper type and value checks. 
 
 ### 1. Watch.py: The example creates a Seiko watch object and showcases its characteristics.
+### 2. TV.py: The example creates a Sony Bravia TV object and showcases its characteristics.
 
 ## Python 
 ## ObjectOrientedProgramming 
